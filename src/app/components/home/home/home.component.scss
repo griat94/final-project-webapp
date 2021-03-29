@@ -1,0 +1,16 @@
+.card, .btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.styleText {
+    border: 2px solid black;
+    font-size: 32px;
+    padding: 20px 30px;
+}
+
+.styleBtn {
+    padding: 10px 15px;
+    font-size: 24px;
+}
